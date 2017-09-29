@@ -1,0 +1,8 @@
+notifications:
+  email: false
+
+language: python
+  python:
+    - 3.6
+  script:
+    - python GreatGen.py
